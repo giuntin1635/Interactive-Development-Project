@@ -1,0 +1,365 @@
+/* CSS Document */
+
+@media only screen and (min-width : 290px){
+/*-----------------Begin Structure------------------*/
+
+html{
+	background-color:#FFAE00;
+}
+
+body{
+	width:98%;
+	margin:auto;
+}
+
+#above-header{
+	background-color:#333;
+	padding:1em;
+}
+
+#logo-and-title{
+	width:60%;
+	padding:0px;
+	margin:0px;
+	float:left;
+}
+
+#jumbotron{
+	background-color:#823D3E;
+	height:250px;
+}
+
+nav{
+	width:40%;
+	padding:0px;
+	margin:0px;
+	float:right;
+	background-color:#999;
+}
+
+main{
+	margin:auto;
+}
+
+article{
+	margin:0 .5em;
+}
+article:nth-last-child(1){
+	margin-bottom:1em;
+}
+
+.person-bio{
+	float:left;
+}
+
+.person-pic{
+	float:left;
+}
+
+footer{
+	background-color:#333;
+	padding:1em;
+}
+
+img{
+	background-color:#099;
+	width:50px;
+	height:50px;
+}
+
+#logo{
+	float:left;
+}
+
+/*------------------End Structure-----------------------*/
+/*-------------------Begin Text-------------------------*/
+
+h1{
+	float:left;
+	margin:1em 0 0 1em;
+	font-size:110%;
+}
+
+h2{
+	font-size:130%;
+	margin-top:.5em;
+}
+
+h3{
+	
+}
+
+p{
+	margin:.3em;
+}
+
+ol{
+	list-style-type:none;
+}
+
+li{
+	float:left;
+	width:30%;
+}
+
+a:link, a:visited{
+	
+}
+					
+a:active, a:hover{
+	
+}
+
+/*----------------------End Text------------------------*/	
+} 
+/*XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*/
+/*CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC*/
+/*XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*/
+		@media only screen and (min-width : 768px){
+		
+		html{
+			background-color:#1CF4C1;
+		}
+		
+		body{
+			width:90%;
+			max-width:1024px;
+			margin:auto;
+		}
+		
+		#above-header{
+			background-color:#333;
+			padding:1em;
+		}
+		
+		#logo-and-title{
+			width:60%;
+			padding:0px;
+			margin:0px;
+			float:left;
+		}
+		
+		#jumbotron{
+			background-color:#823D3E;
+			height:250px;
+		}
+		
+		nav{
+			width:40%;
+			padding:0px;
+			margin:0px;
+			float:right;
+			background-color:#BB484A;
+		}
+		
+		main{
+			width:80%;
+			margin:auto;
+		}
+		
+		article{
+			margin:0 2em;
+		}
+		
+		.person-bio{
+			float:left;
+		}
+		
+		.person-pic{
+			float:left;
+		}
+		
+		footer{
+			background-color:#333;
+			padding:1em;
+		}
+		
+		img{
+			background-color:#099;
+			width:50px;
+			height:50px;
+		}
+		
+		#logo{
+			float:left;
+		}
+		
+		/*------------------End Structure-----------------------*/
+		/*-------------------Begin Text-------------------------*/
+		
+		h1{
+			float:left;
+			margin:1em 0 0 1em;
+			font-size:110%;
+		}
+		
+		h2{
+			font-size:130%;
+			margin-top:.5em;
+		}
+		
+		h3{
+			
+		}
+		
+		p{
+			margin:.3em;
+		}
+		
+		ol{
+			list-style-type:none;
+		}
+		
+		li{
+			float:left;
+			width:30%;
+		}
+		
+		a:link, a:visited{
+	
+		}
+							
+		a:active, a:hover{
+			
+		}
+		
+		/*----------------------End Text------------------------*/	
+		} 
+		/*XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*/
+		/*CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC*/
+		/*XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*/
+@media only screen and (min-width : 1200px){
+
+html{
+	background-color:#B11CAC;
+}
+
+body{
+	width:90%;
+	max-width:1024px;
+	margin:auto;
+}
+
+#above-header{
+	background-color:#333;
+	padding:1em;
+}
+
+#logo-and-title{
+	width:60%;
+	padding:0px;
+	margin:0px;
+	float:left;
+}
+
+#jumbotron{
+	background-color:#823D3E;
+	height:250px;
+}
+
+nav{
+	width:40%;
+	padding:0px;
+	margin:0px;
+	float:right;
+	background-color:#BB484A;
+}
+
+main{
+	width:80%;
+	margin:auto;
+}
+
+article{
+	margin:0 2em;
+}
+
+.person-bio{
+	float:left;
+}
+
+.person-pic{
+	float:left;
+}
+
+footer{
+	background-color:#333;
+	padding:1em;
+}
+
+img{
+	background-color:#099;
+	width:50px;
+	height:50px;
+}
+
+#logo{
+	float:left;
+}
+
+/*------------------End Structure-----------------------*/
+/*XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*/
+/*-------------------Begin Text-------------------------*/
+
+h1{
+	float:left;
+	margin:1em 0 0 1em;
+	font-size:110%;
+}
+
+h2{
+	font-size:130%;
+	margin-top:.5em;
+}
+
+h3{
+	
+}
+
+p{
+	margin:.3em;
+}
+
+ol{
+	list-style-type:none;
+}
+
+li{
+	float:left;
+	width:30%;
+}
+
+a:link, a:visited{
+	
+}
+					
+a:active, a:hover{
+	
+}
+
+/*----------------------End Text----------------------*/
+}
+/*XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*/
+/*CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC*/
+/*XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*/
+
+
+
+/*-----------------Begin Clearfix---------------------*/
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+
+
+/*-----------------End of Clearfix---------------------*/
